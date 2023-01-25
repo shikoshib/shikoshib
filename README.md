@@ -1,6 +1,13 @@
-### Hi! 👋🏻
+# Hi! 👋🏻
 My name is Matvey, and I am a programmer from 🇷🇺 Russia.
 
-I made my [own Discord bot](https://top.gg/bot/929992928615608412) and a [module to fetch Geometry Dash's servers](https://github.com/shikoshib/gj-boomlings-api).
+I'm a programmer and I also [make my own music](https://youtube.com/@shikoshib).
 
-I use JavaScript to make programs. Also I suck at HTML and CSS.
+# Projects
+* [gj-boomlings-api](https://github.com/shikoshib/gj-boomlings-api) - A light-weight Geometry Dash API wrapper
+
+and that's basically it
+
+---
+
+Discord: shikoshib#9256
