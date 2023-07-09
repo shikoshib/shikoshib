@@ -1,8 +1,6 @@
 # Hi! 👋🏻
 My name is Matvey, and I am a programmer from 🇷🇺 Russia.
 
-I'm a programmer and I also [make my own music](https://youtube.com/@shikoshib).
-
 # Programming Languages
 * JavaScript
 * C (recently started learning)
