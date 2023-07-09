@@ -12,8 +12,5 @@ I'm a programmer and I also [make my own music](https://youtube.com/@shikoshib).
 * [winerr](https://github.com/shikoshib/winerr) - A fast and accurate Windows fake error messages generator that works directly in a browser
 * [3xSummoner](https://github.com/shikoshib/3xSummoner) - A message box generator that uses native Windows API, intended for use on Windows 3.1
 
-and that's basically it
-
 ---
-
-Discord: shikoshib#9256
+Discord: shikoshib
