@@ -3,7 +3,7 @@ My name is Matvey, and I am a programmer from 🇷🇺 Russia.
 
 # Programming Languages
 * JavaScript
-* C
+* C++
 
 # Projects
 * [winerr](https://shikoshib.ru/winerr) - A fast and accurate Windows fake error messages generator that works directly in a browser
