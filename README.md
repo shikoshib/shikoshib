@@ -8,10 +8,12 @@ My name is Matvey, and I'm a programmer and music producer from Russia.
 * Node.js
 * Python (beginner)
 ## Notable projects 
+### Active
 * [winerr](https://github.com/shikoshib/winerr) - a fast and accurate Windows fake error messages generator, made with HTML5 Canvas
 * [Librechord](https://github.com/shikoshib/librechord) - a music sharing website made with Node.js
+### No longer maintained
 * [Mipper](https://github.com/shikoshib/Mipper) - a multipurpose Discord bot
-* [gj-boomlings-api](https://github.com/shikoshib/gj-boomlings-api) - a lightweight Geometry Dash API wrapper for Node.js (no longer maintained)
+* [gj-boomlings-api](https://github.com/shikoshib/gj-boomlings-api) - a lightweight Geometry Dash API wrapper for Node.js
 <!--
 **shikoshib/shikoshib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
